@@ -1,0 +1,21 @@
+.tamaño__imagen{
+    height: 700px;
+}
+.contacto__imagen{
+    height: 250px;
+    width: 60%;
+
+}
+.formulario{
+    display: flex; 
+    justify-content: center;
+    margin-bottom: 2rem;
+   
+}
+.contacto__imagen{
+   width: 60%;
+   height: 12rem;
+   margin-left: 20%;
+   margin-bottom: 2rem;
+}
+
